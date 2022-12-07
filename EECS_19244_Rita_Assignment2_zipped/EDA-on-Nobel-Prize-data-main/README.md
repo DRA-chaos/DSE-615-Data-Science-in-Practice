@@ -1,0 +1,2 @@
+# A-Visual-History-of-Nobel-Prize-Winners
+This Project aims to explore the demographics of Nobel Prize Winners through Exploratory Data Analysis in Python. The Nobel Prize has always received a lot of scrutiny and examination by the scientific community and its aspirants. The discoveries form an importantn milestone towards advancing growth and progress and creating revolutionary waves in science. The winner receives 1.1 Million USD. Nobel Prizes are not awarded posthumously.
